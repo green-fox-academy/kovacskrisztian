@@ -1,0 +1,70 @@
+body {
+    background-color: white;
+    background-image: url("assets:/background.png");
+    margin: 0;
+font-family: 'Slabo 27px', serif;
+}
+
+#header {
+    background-color: dimgrey;
+    height: 50px;
+    padding: 0 10%;
+}
+#logo{
+    float: left;
+    margin: 11px 0px;
+}
+#navbar{
+    text-align: right;
+    padding: 18px 0px;
+}
+
+#navbar a{
+    font-size: 17px;
+    padding-right: 20px;
+    color: #ff47e0;
+}
+
+#main {
+    padding: 0 10%;
+}
+
+.name {
+    margin: 60px 0 30px;
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+
+#main h2{
+    font-size: 20px;
+    margin: 20px 0px;
+    color: #ff47e0;
+}
+
+#main p{
+    font-size: 15px;
+    margin: 20px 0px;
+    line-height: 20px;
+}
+
+#separator{
+    text-align: center;
+    letter-spacing: 10px;
+    margin: 50px; 0 40px;
+}
+
+#answers h1 {
+    text-align: center;
+    font-size: 25px;
+}
+
+#answers h2 {
+    text-align: left;
+    padding: 0px 10%;
+}
+
+#answers p {
+    font-size: 15px;
+    padding: 0px 10%;
+}
